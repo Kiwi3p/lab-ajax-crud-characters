@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "characters": [
+    {
+      "name": "test",
+      "occupation": "test",
+      "weapon": "test",
+      "cartoon": "on",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "new",
+      "occupation": "new",
+      "weapon": "new",
+      "cartoon": false,
+      "id": 4
+    }
+  ]
+}
